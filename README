@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1698
+
+This script will help you,  with the EPITA norme.
+ * Headers are automaticaly generated on writing FILE
+ * cindent is config
+ * (norme checker) not yet implemented
